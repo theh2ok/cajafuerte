@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "815197420700",
+    "firebase_url": "https://unityform-adc1b.firebaseio.com",
+    "project_id": "unityform-adc1b",
+    "storage_bucket": "unityform-adc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815197420700:android:5af39891fe513705694159",
+        "android_client_info": {
+          "package_name": "com.hctr.unityform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815197420700-nsp9l9f0m140l3hkt9nt92sl6uldcmaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy4lLCKps6SXKpnmGHWszqjCKMZt112wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815197420700-nsp9l9f0m140l3hkt9nt92sl6uldcmaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
